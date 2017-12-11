@@ -1,4 +1,4 @@
-[# square-map](https://anvaka.github.io/square-map/)
+# [square-map](https://anvaka.github.io/square-map/)
 
 Very useful project inspired by work of Terry Atkinson and Michael Baldwin,
 back from 1967: [Map of an Area of Dimensions 12" x 12" Indicating 2,304 1/4" Squares
