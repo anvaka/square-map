@@ -4,7 +4,8 @@
   "description": "Generates a squared map of itself",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browserify index.js > bundle.js"
   },
   "keywords": [
     "toy",
@@ -16,5 +17,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/square-map"
+  },
+  "dependencies": {
+    "query-state": "^4.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^14.5.0"
   }
 }
