@@ -2,7 +2,7 @@
 var queryState = require('query-state');
 
 var qs = queryState({
-  rows: 42,
+  rows: 55,
   columns: 42,
   cellWidth: 42,
   cellHeight: 42
